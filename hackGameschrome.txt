@@ -1,0 +1,9 @@
+stopped network from PC 
+Strat chrome 
+open (inspect)
+console
+Enter
+Runner.instance_.playingIntro = true  ------> Enter
+Runner.instance_.playingIntro =false   -----> Enter
+Runner.instance_.gameOver = function(){}; --> Enter
+Runner.instance_.setSpeed(100);  -----------> Enter
